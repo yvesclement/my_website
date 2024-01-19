@@ -24,7 +24,8 @@ superuser: true
 title: 
 ---
 
-My name is Yves Clément and I am a [Université Paris Cité](https://u-paris.fr/) associate professor [Institut Jacques Monod](https://www.ijm.fr/) working at the interface of animal ecology, statistical modeling and social sciences in the [Human-Animal Interactions group](https://human-animal-interactions.github.io/). I studied maths and statistics in particular, finishing my PhD in 2003. I obtained my Habilitation in ecology and evolution, and more recently embarked in studying sociology.  
+My name is Yves Clément and I am a [Université Paris Cité](https://u-paris.fr/) associate professor. I am working in the [Stem Cells, Development & Evolution](https://stemdevevo.wordpress.com/) group at [Institut Jacques Monod](https://www.ijm.fr/).
+working at the interface of animal ecology, statistical modeling and social sciences in the [Human-Animal Interactions group](https://human-animal-interactions.github.io/). I studied maths and statistics in particular, finishing my PhD in 2003. I obtained my Habilitation in ecology and evolution, and more recently embarked in studying sociology.  
 
 With students and colleagues, we focus on questions in ecology and conservation biology dealing with the impact of climate 
 change and human activities on population dynamics and species distribution and the management 
