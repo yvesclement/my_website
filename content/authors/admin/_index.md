@@ -6,29 +6,20 @@ email: ""
 organizations:
 #- name: CNRS
 #  url: "http://www.cnrs.fr/index.php"
-role: Statistics, ecology & social sciences
+role: Evolutionary biology & comparative genomics
 social:
 - icon: github
   icon_pack: fab
-  link: https://github.com/oliviergimenez
+  link: https://github.com/yvesclement
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/oaggimenez
-- icon: mastodon
-  icon_pack: fab
-  link: https://bayes.club/@oaggimenez
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCFtTq-4WwH0LIczQ__KFC1A/videos
+  link: https://twitter.com/TwelveSharp
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.fr/citations?user=5NkQUA8AAAAJ&hl=fr
-- icon: figshare
-  icon_pack: ai
-  link: https://figshare.com/authors/Olivier_Gimenez/3914297
+  link: https://scholar.google.fr/citations?user=_tlYc0gAAAAJ&hl=fr
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/olivier-gimenez-545451115/
+  link: https://www.linkedin.com/in/yvesclement/
 superuser: true
 title: 
 ---
