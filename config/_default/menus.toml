@@ -37,18 +37,6 @@
   weight = 40
 
 [[main]]
-  name = "Papers"
-  parent = "Publications"
-  url = "publication/papers/"
-  weight = 41
-
-[[main]]
-  name = "Books and book chapter"
-  parent = "Publications"
-  url = "publication/books/"
-  weight = 42
-
-[[main]]
   name = "Talks & workshops"
   url = "talks"
   weight = 50
