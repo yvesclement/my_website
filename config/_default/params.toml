@@ -102,7 +102,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "flyfishing.jpg"
+# sharing_image = "flyfishing.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "TwelveSharp"
@@ -113,7 +113,7 @@ twitter = "TwelveSharp"
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
+date_format = "2006-01-02"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "15:04"
 
