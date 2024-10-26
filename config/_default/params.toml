@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "olivier.gimenez@cefe.cnrs.fr"
+email = "yves.clement@ijm.fr"
 phone = ""
 
 
@@ -105,7 +105,7 @@ contact_links = [
 sharing_image = "flyfishing.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "oaggimenez"
+twitter = "TwelveSharp"
 
 ############################
 ## Regional Settings
@@ -115,7 +115,7 @@ twitter = "oaggimenez"
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
 address_format = "en-us"
