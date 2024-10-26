@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -37,7 +37,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "200px", "100px", "200px"]
+  padding = ["10px", "20px", "10px", "20px"]
 
 [advanced]
  # Custom CSS. 
