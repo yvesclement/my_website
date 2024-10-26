@@ -29,6 +29,3 @@ My name is Yves Clément and I am a [Université Paris Cité](https://u-paris.fr
 My reasearch topics are all realated to *evolutionary genomics*, studying how genomes evolved through time and function today, using a wide range of bioinformatic tools and a lot of data analysis.
 You can find more information about my research topics (past and present) in the [Project](https://yvesclement.github.io/project_landing/) page.
 
-I am adding this just to test something...
-
-
