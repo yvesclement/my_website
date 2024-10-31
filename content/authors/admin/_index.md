@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I'm an associate professor scientist working at the interface of animal ecology, statistical modeling and social sciences.
+bio: I'm an associate professor working on comparative genomics and bioinformatics.
 email: ""
 organizations:
 #- name: CNRS
